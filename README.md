@@ -1,6 +1,6 @@
 # OrderBook App using Binance API
-![image-orderbook](https://ibb.co/zXK8Nkn)
-![image-orderbook](https://ibb.co/tqK6Gh4)
+![image-orderbook](qnance.png)
+![image-orderbook](qnance2.png)
 
 ## A dynamic app which fetches data from binance api and provides the asks and bids for the chosen symbol.
 # Getting Started with Create React App
