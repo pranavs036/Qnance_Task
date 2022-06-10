@@ -1,12 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
 import React, { useState, useEffect } from "react";
 import "./styled.scss";
 import BidLists from "./Bid_list";
 import { FaArrowDown, FaArrowUp } from "react-icons/fa";
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-//var symbols = [];
 function App() {
   const addSymbol = async (data) => {
     var temp = await data.symbols.slice(0, 7);
